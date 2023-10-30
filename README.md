@@ -1,8 +1,8 @@
 This project contains the session journals for the Dolsaar Campaign.
 
 ## Journals
-(2023-08-23.pdf) - Conclusion of VonWitte's Manor
-(2023-10-29.pdf) - The Standing Stones of Tevurn
+[2023-08-23.pdf](2023-08-23.pdf) - Conclusion of VonWitte's Manor
+[2023-10-29.pdf](2023-10-29.pdf) - The Standing Stones of Tevurn
 
 ## Maps
 
